@@ -1,3 +1,1 @@
-Name: Muhammad Saad /n
-Degree program: Bachelor of scince in cyber security /n
-Hobby:  Playiing Cricket/n
+My Name is Muhammad Saad, My degree program is bachelor of science in cyber security, My hobby is to play cricket
